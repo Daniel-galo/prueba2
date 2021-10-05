@@ -1,0 +1,1 @@
+<?php header( "Location: C:\Users\super\OneDrive\Documentos\GitHub\prueba2\index.html") ; ?>
